@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: my_package
+Version: 0.1.0
+Summary: A package for phishing detection and analysis
+Author: Akshay
+Author-email: akshayfracis891@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: pymongo
+Requires-Dist: python-dotenv
