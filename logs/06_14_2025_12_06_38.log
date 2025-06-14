@@ -1,0 +1,6 @@
+[ 2025-06-14 12:06:40,413 ] 28 root - INFO - Constants initialized and directories created.
+[ 2025-06-14 12:06:40,557 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-14 12:06:40,566 ] 225 werkzeug - INFO -  * Debugger PIN: 332-827-982
+[ 2025-06-14 12:06:43,547 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2025-06-14 12:06:43,550 ] 225 werkzeug - INFO -  * Running on http://192.168.18.8:8080/ (Press CTRL+C to quit)

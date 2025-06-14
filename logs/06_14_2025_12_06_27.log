@@ -1,0 +1,3 @@
+[ 2025-06-14 12:06:27,843 ] 15 root - INFO - MongoDB URI: mongodb+srv://akshayfrancis891:root@cluster0.jrmm3vg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+[ 2025-06-14 12:06:27,843 ] 16 root - INFO - Database name: PX-IDS
+[ 2025-06-14 12:06:29,110 ] 24 root - INFO - Connected to MongoDB! Collections: []

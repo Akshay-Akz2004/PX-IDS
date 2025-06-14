@@ -1,0 +1,14 @@
+[ 2025-06-14 12:04:03,729 ] 28 root - INFO - Constants initialized and directories created.
+[ 2025-06-14 12:04:03,897 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-14 12:04:03,910 ] 225 werkzeug - INFO -  * Debugger PIN: 332-827-982
+[ 2025-06-14 12:04:05,859 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2025-06-14 12:04:05,859 ] 225 werkzeug - INFO -  * Running on http://192.168.18.8:8080/ (Press CTRL+C to quit)
+[ 2025-06-14 12:05:21,159 ] 59 root - ERROR - Prediction failed: Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\predict_pipeline.py] line number [116] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\predict_pipeline.py] line number [96] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\predict_pipeline.py] line number [62] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\utils\main_utils.py] line number [88] error message [Unable to locate credentials]]]]
+[ 2025-06-14 12:05:21,161 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:05:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-06-14 12:05:26,770 ] 37 root - INFO - Successfully connected to MongoDB
+[ 2025-06-14 12:05:26,771 ] 28 root - INFO - MongoDB connection established successfully
+[ 2025-06-14 12:05:26,816 ] 25 root - INFO - Data ingestion completed successfully
+[ 2025-06-14 12:05:26,818 ] 31 root - ERROR - Training failed: Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\train_pipeline.py] line number [65] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\train_pipeline.py] line number [27] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\components\data_validation.py] line number [38] error message [No columns to parse from file]]]
+[ 2025-06-14 12:05:26,818 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:05:26] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2025-06-14 12:06:38,090 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\aksha\\documents\\internship\\px-ids\\test_mongo.py', reloading

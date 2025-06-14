@@ -1,0 +1,14 @@
+[ 2025-06-14 12:03:10,163 ] 28 root - INFO - Constants initialized and directories created.
+[ 2025-06-14 12:03:10,298 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-14 12:03:10,307 ] 225 werkzeug - INFO -  * Debugger PIN: 332-827-982
+[ 2025-06-14 12:03:12,662 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2025-06-14 12:03:12,662 ] 225 werkzeug - INFO -  * Running on http://192.168.18.8:8080/ (Press CTRL+C to quit)
+[ 2025-06-14 12:03:15,442 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:03:15] "[33mGET /chats HTTP/1.1[0m" 404 -
+[ 2025-06-14 12:03:17,945 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:03:17] "GET / HTTP/1.1" 200 -
+[ 2025-06-14 12:03:19,772 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:03:19] "GET /predict HTTP/1.1" 200 -
+[ 2025-06-14 12:03:20,077 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:03:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2025-06-14 12:03:20,085 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:03:20] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2025-06-14 12:03:29,000 ] 59 root - ERROR - Prediction failed: Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\predict_pipeline.py] line number [116] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\predict_pipeline.py] line number [96] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\pipeline\predict_pipeline.py] line number [62] error message [Error occurred python script name [C:\Users\aksha\Documents\Internship\PX-IDS\src\utils\main_utils.py] line number [84] error message [Unable to locate credentials]]]]
+[ 2025-06-14 12:03:29,000 ] 225 werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 12:03:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-06-14 12:04:01,958 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\aksha\\documents\\internship\\px-ids\\src\\utils\\main_utils.py', reloading
